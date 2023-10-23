@@ -154,7 +154,7 @@ export default async function Home() {
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
             I’m Alex, a software engineer currently based in Northern Virginia.
-            I specialize in full-stack app development for the financial sector and crypto space.
+            I specialize in full-stack app development in the financial sector and crypto space.
           </p>
           <div className="mt-6 flex gap-6 mb-8 border-b border-zinc-100 pb-8 dark:border-zinc-700/40">
             <SocialLink
