@@ -89,7 +89,7 @@ function Resume() {
         <span className="ml-3">Work</span>
       </h2>
       <ResumeList />
-      <Button href="https://alexdziarnowski.com/Alex%20Dziarnowski_Resume.pdf" target="_blank" variant="secondary" className="group mt-6 w-full">
+      <Button href="/resume.pdf" target="_blank" rel="noopener noreferrer" download variant="secondary" className="group mt-6 w-full">
         Download Resume
         <ArrowDownIcon className="h-4 w-4 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
       </Button>
